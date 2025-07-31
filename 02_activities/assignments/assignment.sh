@@ -39,7 +39,7 @@ mv ./rawdata ./raw
 
 # 3. List the contents of the ./data/raw directory
 
-ls ./raw
+ls ./data/raw
 
 # 4. In ./data/processed, create the following directories: server_logs, user_logs, and event_logs
 
